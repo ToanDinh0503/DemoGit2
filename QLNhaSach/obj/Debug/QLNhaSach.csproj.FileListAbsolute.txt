@@ -1,0 +1,11 @@
+C:\Users\Chi Bao\Desktop\Workspace\C#\GitDemo\DemoGit2\QLNhaSach\bin\Debug\QLNhaSach.exe.config
+C:\Users\Chi Bao\Desktop\Workspace\C#\GitDemo\DemoGit2\QLNhaSach\bin\Debug\QLNhaSach.exe
+C:\Users\Chi Bao\Desktop\Workspace\C#\GitDemo\DemoGit2\QLNhaSach\bin\Debug\QLNhaSach.pdb
+C:\Users\Chi Bao\Desktop\Workspace\C#\GitDemo\DemoGit2\QLNhaSach\obj\Debug\QLNhaSach.csproj.AssemblyReference.cache
+C:\Users\Chi Bao\Desktop\Workspace\C#\GitDemo\DemoGit2\QLNhaSach\obj\Debug\QLNhaSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chi Bao\Desktop\Workspace\C#\GitDemo\DemoGit2\QLNhaSach\obj\Debug\QLNhaSach.Form3.resources
+C:\Users\Chi Bao\Desktop\Workspace\C#\GitDemo\DemoGit2\QLNhaSach\obj\Debug\QLNhaSach.Properties.Resources.resources
+C:\Users\Chi Bao\Desktop\Workspace\C#\GitDemo\DemoGit2\QLNhaSach\obj\Debug\QLNhaSach.csproj.GenerateResource.cache
+C:\Users\Chi Bao\Desktop\Workspace\C#\GitDemo\DemoGit2\QLNhaSach\obj\Debug\QLNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\Chi Bao\Desktop\Workspace\C#\GitDemo\DemoGit2\QLNhaSach\obj\Debug\QLNhaSach.exe
+C:\Users\Chi Bao\Desktop\Workspace\C#\GitDemo\DemoGit2\QLNhaSach\obj\Debug\QLNhaSach.pdb
